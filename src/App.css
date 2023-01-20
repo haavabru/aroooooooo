@@ -1,0 +1,30 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+
+@media only screen and (max-width: 1920px) {
+  img {
+    width: 25%;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  img {
+    width: 30%;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  img {
+    width: 40%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  img {
+    width: 50%;
+  }
+}
